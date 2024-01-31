@@ -5,6 +5,7 @@ edition = "2021"
 
 [dependencies]
 pcsc = "2"
+chrono="0.4"
 image = { version = "0.24.0", package = "image" }
 image_crate = { version = "0.23.0", package = "image" }
 byteorder = "1.4.3"
